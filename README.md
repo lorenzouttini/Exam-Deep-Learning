@@ -62,13 +62,6 @@ To use this project, follow these steps:
 
 ## License
 
-This project is available under the MIT License. You are free to use and modify the code as per the terms of the license.
-
-## Acknowledgments
-
-This project was created by [Your Name] and can be found on GitHub at [Your GitHub Repository URL]. Feel free to reach out with any questions or feedback.
-
-Enjoy exploring the world of movie rating prediction with deep learning!
+This project is available under the MIT License
 
 
-The deep learning model used for rating prediction is a recurrent neural network (RNN) with LSTM or GRU layers. You can find the model architecture defined in the code, along with various hyperparameters that can be customized.
